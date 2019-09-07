@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToggleButton</string>
+    <string name="dialog_message">WELCOME to AlertBox</string>
+    <string name="dialog_title">
+        title NEW
+    </string>
+</resources>
